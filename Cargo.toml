@@ -1,0 +1,12 @@
+[package]
+name = "specs-bvh"
+version = "0.1.0"
+authors = ["Danny Fritz <dannyfritz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+specs = "0.14.0"
+specs-derive = "0.3.0"
+ggez = "0.4.4"
+ncollide2d = "0.17.1"
+nalgebra = "0.16.10"
